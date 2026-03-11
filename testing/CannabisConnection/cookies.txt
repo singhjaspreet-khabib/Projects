@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.cannabisconnection.ca	TRUE	/	FALSE	1999999999	__cf_bm	d.7vDjuzsLql5HylxBpv32NY4IJ6.10QQbapkfJ_McU-1773208648-1.0.1.1-iU8OGkE_BuYhz5oei02rqUHmtoMegg.wKIacOCnb9lYI43sv9Rf_YCal0OipFR1VutK7Jg7ZSnbylaV.PhhvkIPbAM3mTkGgWsdLd5BHXx4
-cannabisconnection.ca	TRUE	/	FALSE	1999999999	SameSite	None
-
