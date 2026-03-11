@@ -1,0 +1,92 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Mar 2026 11:23:56 at https://cannabisconnection.ca/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://cannabisconnection.ca/ -O1 "V:\itzja\CannabisConnection\CannabisConnection" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:24:20	Error: 	"Forbidden" (403) at link https://cannabisconnection.ca/xmlrpc.php?rsd (from https://cannabisconnection.ca/)
+11:24:55	Error: 	"Not Found" (404) at link https://cannabisconnection.ca/wp-content/themes/images/search-icon.svg (from https://cannabisconnection.ca/wp-content/themes/orken/style.css?ver=6.9.1)
+11:24:55	Error: 	"Not Found" (404) at link https://cannabisconnection.ca/wp-content/themes/images/plus-icon.svg (from https://cannabisconnection.ca/wp-content/themes/orken/style.css?ver=6.9.1)
+11:24:55	Error: 	"Not Found" (404) at link https://cannabisconnection.ca/wp-content/themes/images/close-icon.svg (from https://cannabisconnection.ca/wp-content/themes/orken/style.css?ver=6.9.1)
+11:24:55	Error: 	"Not Found" (404) at link https://cannabisconnection.ca/wp-content/themes/images/arrow-right-icon.svg (from https://cannabisconnection.ca/wp-content/themes/orken/style.css?ver=6.9.1)
+11:24:56	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7031
+11:24:56	Warning: 	File has moved from https://cannabisconnection.ca/?p=7031 to https://cannabisconnection.ca/about-us/
+11:24:56	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7985
+11:24:56	Warning: 	File has moved from https://cannabisconnection.ca/?p=7985 to https://cannabisconnection.ca/locations/
+11:25:09	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7041
+11:25:09	Warning: 	File has moved from https://cannabisconnection.ca/?p=7041 to https://cannabisconnection.ca/affiliates/
+11:25:15	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=6779
+11:25:15	Warning: 	File has moved from https://cannabisconnection.ca/?p=6779 to https://cannabisconnection.ca/faq/
+11:25:21	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7022
+11:25:21	Warning: 	File has moved from https://cannabisconnection.ca/?p=7022 to https://cannabisconnection.ca/return-policy/
+11:25:25	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=6648
+11:25:25	Warning: 	File has moved from https://cannabisconnection.ca/?p=6648 to https://cannabisconnection.ca/blog/
+11:25:56	Error: 	"Not Found" (404) at link https://cannabisconnection.ca/beyond-thc-cannabinoids-that-could-change-your-wellness-game/ (from https://cannabisconnection.ca/blog/)
+11:25:56	Error: 	"Not Found" (404) at link https://cannabisconnection.ca/cannabis-cream-for-pain/ (from https://cannabisconnection.ca/blog/)
+11:25:56	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=6697
+11:25:56	Warning: 	File has moved from https://cannabisconnection.ca/?p=6697 to https://cannabisconnection.ca/gallery/
+11:25:56	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=6708
+11:25:56	Warning: 	File has moved from https://cannabisconnection.ca/?p=6708 to https://cannabisconnection.ca/contact/
+11:25:58	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7976
+11:25:58	Warning: 	File has moved from https://cannabisconnection.ca/?p=7976 to https://cannabisconnection.ca/locations/cannabis-store-in-chilliwack-bc-chilliwack-proper/
+11:25:58	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7926
+11:25:58	Warning: 	File has moved from https://cannabisconnection.ca/?p=7926 to https://cannabisconnection.ca/locations/cannabis-store-surrey-bc-fleetwood/
+11:25:58	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7961
+11:25:58	Warning: 	File has moved from https://cannabisconnection.ca/?p=7961 to https://cannabisconnection.ca/locations/cannabis-store-surrey-bc-newton/
+11:25:58	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7953
+11:25:58	Warning: 	File has moved from https://cannabisconnection.ca/?p=7953 to https://cannabisconnection.ca/locations/cannabis-store-abbotsford-bc-clearbrook/
+11:26:16	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=8291
+11:26:16	Warning: 	File has moved from https://cannabisconnection.ca/?p=8291 to https://cannabisconnection.ca/cannabis/indica-sativa-or-hybrid-how-surrey-cannabis-shoppers-can-decide/
+11:26:31	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=8279
+11:26:31	Warning: 	File has moved from https://cannabisconnection.ca/?p=8279 to https://cannabisconnection.ca/cannabis/cannabis-products-youll-find-at-surrey-cannabis-dispensary/
+11:26:35	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=8277
+11:26:35	Warning: 	File has moved from https://cannabisconnection.ca/?p=8277 to https://cannabisconnection.ca/cannabis/cannabis-connections-surrey-cannabis-store-now-open/
+11:26:35	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7911
+11:26:35	Warning: 	File has moved from https://cannabisconnection.ca/?p=7911 to https://cannabisconnection.ca/cannabis/how-to-choose-quality-cannabis-products-a-trusted-guide-for-informed-consumers/
+11:26:35	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7905
+11:26:35	Warning: 	File has moved from https://cannabisconnection.ca/?p=7905 to https://cannabisconnection.ca/cannabis/buy-cannabis-pre-rolls-in-chilliwack/
+11:26:39	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7861
+11:26:39	Warning: 	File has moved from https://cannabisconnection.ca/?p=7861 to https://cannabisconnection.ca/cannabis/buy-cbd-in-chilliwack/
+11:26:39	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7785
+11:26:39	Warning: 	File has moved from https://cannabisconnection.ca/?p=7785 to https://cannabisconnection.ca/cannabis/an-update-on-product-availability-at-cannabis-connection/
+11:27:10	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7683
+11:27:10	Warning: 	File has moved from https://cannabisconnection.ca/?p=7683 to https://cannabisconnection.ca/cannabis/how-cbd-can-help-with-sleep/
+11:27:13	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7667
+11:27:13	Warning: 	File has moved from https://cannabisconnection.ca/?p=7667 to https://cannabisconnection.ca/cannabis/what-are-terpenes-in-weed/
+11:27:13	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7664
+11:27:13	Warning: 	File has moved from https://cannabisconnection.ca/?p=7664 to https://cannabisconnection.ca/cannabis/cbd-vs-thc-for-anxiety/
+11:27:16	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7491
+11:27:16	Warning: 	File has moved from https://cannabisconnection.ca/?p=7491 to https://cannabisconnection.ca/general/contests/congratulations-to-our-grand-opening-giveaway-winners/
+11:27:16	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7473
+11:27:16	Warning: 	File has moved from https://cannabisconnection.ca/?p=7473 to https://cannabisconnection.ca/general/contests/grand-opening-giveaway/
+11:27:16	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7618
+11:27:16	Warning: 	File has moved from https://cannabisconnection.ca/?p=7618 to https://cannabisconnection.ca/products/hemp/the-ultimate-guide-to-hemp-products-in-chilliwack/
+11:27:21	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7625
+11:27:21	Warning: 	File has moved from https://cannabisconnection.ca/?p=7625 to https://cannabisconnection.ca/cannabis/discovering-the-best-chilliwack-cannabis-dispensary-your-guide-to-quality-and-variety/
+11:27:21	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7596
+11:27:21	Warning: 	File has moved from https://cannabisconnection.ca/?p=7596 to https://cannabisconnection.ca/cannabis/the-best-cannabis-shopping-experience-in-chilliwack/
+11:27:21	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7460
+11:27:21	Warning: 	File has moved from https://cannabisconnection.ca/?p=7460 to https://cannabisconnection.ca/cannabis/cannabis-connections-commitment-to-education/
+11:27:22	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7458
+11:27:22	Warning: 	File has moved from https://cannabisconnection.ca/?p=7458 to https://cannabisconnection.ca/cannabis/discover-the-ultimate-cannabis-shopping-experience-at-cannabis-connection-in-chilliwack/
+11:27:22	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7599
+11:27:22	Warning: 	File has moved from https://cannabisconnection.ca/?p=7599 to https://cannabisconnection.ca/cannabis/how-to-enhance-your-relaxation-routine-with-cannabis-connection-chilliwack/
+11:27:26	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7575
+11:27:26	Warning: 	File has moved from https://cannabisconnection.ca/?p=7575 to https://cannabisconnection.ca/cannabis/why-cannabis-connection-is-the-best-dispensary-in-chilliwack/
+11:27:28	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=7661
+11:27:28	Warning: 	File has moved from https://cannabisconnection.ca/?p=7661 to https://cannabisconnection.ca/cannabis/what-is-the-difference-between-indica-and-sativa/
+11:27:28	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=6857
+11:27:28	Warning: 	File has moved from https://cannabisconnection.ca/?p=6857 to https://cannabisconnection.ca/cannabis/a-quick-guide-to-cannabis-pre-rolls-in-british-columbia/
+11:27:28	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=6856
+11:27:28	Warning: 	File has moved from https://cannabisconnection.ca/?p=6856 to https://cannabisconnection.ca/cannabis/a-quick-guide-to-cannabis-edibles-in-british-columbia/
+11:27:28	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=6855
+11:27:28	Warning: 	File has moved from https://cannabisconnection.ca/?p=6855 to https://cannabisconnection.ca/cannabis/best-cannabis-strains-in-the-fraser-valley-a-quick-guide/
+11:27:28	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=6854
+11:27:28	Warning: 	File has moved from https://cannabisconnection.ca/?p=6854 to https://cannabisconnection.ca/cannabis/a-quick-guide-to-cannabis-infused-beverages-in-british-columbia-5/
+11:27:28	Warning: 	Moved Permanently for https://cannabisconnection.ca/?p=180
+11:27:28	Warning: 	File has moved from https://cannabisconnection.ca/?p=180 to https://cannabisconnection.ca/cannabis/a-quick-guide-to-cannabis-infused-beverages-in-british-columbia/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 32 seconds : 649 links scanned, 604 files written (264153577 bytes overall) [250802908 bytes received at 1183032 bytes/sec], 18836517 bytes transferred using HTTP compression in 464 files, ratio 22%, 29.6 requests per connection
+(7 errors, 74 warnings, 0 messages)
